@@ -1,0 +1,11 @@
+ @media screen and (min-width: 1200px) {
+    .content-text {
+        flex-direction: center;
+    }
+    .footer.container {
+        flex-direction: row;
+    }
+    .links {
+        margin-right: 20rem;
+    }
+}
